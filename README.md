@@ -3,7 +3,7 @@
 A data driven public service operations analytics project that analyzes citizen complaints across services, zones, channels, issue categories, and priority levels to identify resolution bottlenecks and service quality gaps.
 
 ## Overview
-Analyzed 240 citizen complaints (Jan–Jun 2026) across 5 intake channels, 6 issue categories, and 4 priority tiers to surface where the complaint-resolution process was underperforming.
+Analyzed 240 citizen complaints (Jan–Jun 2026) across 5 intake channels, 6 issue categories, and 4 priority tiers to surface where the complaint-resolution process was underperforming. Note the dataset of cases is synthetic dataset.
 
 ## Key Insights
 - Billing complaints had the worst SLA compliance (56.4% resolved ≤7 days) and lowest satisfaction (3.94/5) — flagged as the top priority for process improvement.
