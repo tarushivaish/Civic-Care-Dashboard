@@ -1,6 +1,6 @@
 # Civic Care — Complaint Resolution Analytics Dashboard
 
-A data driven public-service operations analytics project that analyzes citizen complaints across services, zones, channels, issue categories, and priority levels to identify resolution bottlenecks and service-quality gaps.
+A data driven public service operations analytics project that analyzes citizen complaints across services, zones, channels, issue categories, and priority levels to identify resolution bottlenecks and service quality gaps.
 
 ## Overview
 Analyzed 240 citizen complaints (Jan–Jun 2026) across 5 intake channels, 6 issue categories, and 4 priority tiers to surface where the complaint-resolution process was underperforming.
