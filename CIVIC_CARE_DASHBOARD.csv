@@ -1,0 +1,23 @@
+CIVICCARE — CROSS-ANALYSIS & RELATIONSHIPS,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Channel,Cases,Avg Resolution (Days),Avg Satisfaction,Resolved ≤ 7 Days,,Issue Category,Cases,Avg Resolution (Days),Avg Satisfaction,Resolved ≤ 7 Days
+Helpline,43,5.4,4.1,74.4,,Billing,39,6.3,3.94,56.4
+Mobile App,44,5.7,3.98,72.7,,Delay,38,5.8,3.97,68.4
+Service Center,61,5.1,4.17,78.7,,Incorrect Information,41,4.7,4.19,78
+Walk-in,46,5.2,4.1,69.6,,Infrastructure,31,5.3,4.29,80.6
+Website,46,5.4,4.13,78.3,,Poor Service,43,4.7,4.13,86
+,,,,,,Staff Behaviour,48,5.3,4.12,79.2
+,,,,,,,,,,
+Priority,Cases,Avg Resolution (Days),Avg Satisfaction,Resolved ≤ 7 Days,,Month,Cases,Avg Resolution (Days),Avg Satisfaction,
+High,54,5.3,4.13,74.1,,Jan-2026,42,5.4,4.05,
+Low,72,5.8,4,76.4,,Feb-2026,37,5.5,4.23,
+Medium,102,5.1,4.16,73.5,,Mar-2026,41,4.7,4.2,
+Urgent,12,4.6,4.12,83.3,,Apr-2026,40,5.4,4.08,
+,,,,,,May-2026,41,5.7,3.98,
+,,,,,,Jun-2026,39,5.4,4.1,
+Service,Central,East,North,South,West,,,,,
+Road Repair,9.5,9.4,9.2,12.5,10.7,,,,,
+Streetlight,6.7,3.9,5,3.8,4.8,,,,,
+Waste Collection,3.9,5.3,4.3,5.3,4.8,,,,,
+Water Supply,7.1,6,4.2,5.7,5.9,,,,,
